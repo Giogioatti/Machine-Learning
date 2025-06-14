@@ -1,0 +1,11 @@
+ML_Basics.ipynb
+- Data Ingestion & Exploration: Downloads a CSV from Google Drive into a pandas DataFrame, displays head, summary statistics, and checks for missing values.
+- Data Preprocessing: Encodes categorical features (e.g., Gender, family history, dietary habits) and splits the data into training (90%) and test (10%) sets.
+- Linear Regression: Trains sklearn’s LinearRegression model and implements manual gradient descent variants (Batch, Mini-Batch, Lasso, Ridge, Elastic Net).
+- Model Evaluation: Calculates MSE and RMSE metrics and plots predicted vs. actual values.
+- Decision Tree (Scratch): Builds a decision tree classifier from first principles using dictionaries, evaluates accuracy and confusion matrix, and discusses overfitting vs. interpretability.
+- Logistic Regression: Fits sklearn’s LogisticRegression model, computes accuracy, classification report, ROC curve, and AUC.
+- k-Nearest Neighbours: Implements KNN classification manually and analyzes the impact of the k parameter on bias–variance tradeoff.
+- Multi-Layer Neural Network: Constructs and trains a simple feedforward network in NumPy, covering activation functions, learning rate, and convergence.
+- Visualization: Uses Matplotlib to plot data distributions, learning curves, and model diagnostics.
+- Final Considerations: Compares the strengths, weaknesses, and suitable use cases of all implemented algorithms.
