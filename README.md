@@ -1,4 +1,4 @@
-ML_Basics.ipynb
+#ML_Basics.ipynb
 - Data Ingestion & Exploration: Downloads a CSV from Google Drive into a pandas DataFrame, displays head, summary statistics, and checks for missing values.
 - Data Preprocessing: Encodes categorical features (e.g., Gender, family history, dietary habits) and splits the data into training (90%) and test (10%) sets.
 - Linear Regression: Trains sklearn’s LinearRegression model and implements manual gradient descent variants (Batch, Mini-Batch, Lasso, Ridge, Elastic Net).
